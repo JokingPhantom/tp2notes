@@ -1,5 +1,5 @@
 # tp2notes
-This build should be helpful for pushing to high level infs before unlocking forge. Not suitable for getting to the first infinity. Suitable for game version 0.8.4. Tested to 110k infs.
+This build should be helpful for pushing to high level infs before unlocking forge. Not suitable for getting to the first infinity. Suitable for game version 0.8.4. Tested to 110k infs on region 15 chaos.
 
 # Version 5.2 R15 Inf Push Preforge
 
@@ -47,6 +47,7 @@ Notes
 # Benchmark Stats
 
 #### Test run #1
+Region 15 Chaos
 
 270 minutes acceleration prep
 
