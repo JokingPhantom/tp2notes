@@ -29,6 +29,7 @@ Notes
 - For TBarrier + THull cycle, trigger TBarrier first, since electric reflect will kill you without era shield disabled
 - ST3 + Inf Splash is the best for clearing, but ST3 can only be up 66% of the time with AI managed Refresh
 - Cycling ST1 + ST2 when ST3 is down can help, there should be an approximate 2 second gap where all ST’s are down with optimal usage.
+- The AI will loop over ST1/2/3 for 80 seconds, ST2/3 for 80 seconds, ST3 for 80 seconds, then 2 seconds of no ST.
 - Dispel automated to always only trigger on negative status effects
 - Snap of Destiny is mostly useless (though theoretically could be timed for the 2 second ST gap?)
 - Super Multishot can’t trigger some multishot effects, but still provides some nice extra clearspeed.
