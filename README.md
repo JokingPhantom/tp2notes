@@ -1,5 +1,5 @@
 # tp2notes
-This build should be helpful for pushing to high level infs before unlocking forge. Not suitable for getting to the first infinity. Suitable for game version 0.8.4
+This build should be helpful for pushing to high level infs before unlocking forge. Not suitable for getting to the first infinity. Suitable for game version 0.8.4. Tested to 110k infs.
 
 # Version 5.2 R15 Inf Push Preforge
 
@@ -43,6 +43,16 @@ Notes
 - Unholy Aura is dead since tastes are dead
 - Fire Armor is used to absorb the rare shield piercing damage from fire (unverified, division shield may be sufficient to survive)
 - Extinguish is in testing. Could be a small supplement to clear speed.
+
+# Benchmark Stats
+
+#### Test run #1
+
+270 minutes acceleration prep
+
+200 minutes push
+
+110k infs reached
 
 # Testing BP
 
