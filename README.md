@@ -1,5 +1,5 @@
 # tp2notes
-This blueprint should be helpful for pushing to high level infs before unlocking forge. Not suitable for getting to the first infinity.
+This build should be helpful for pushing to high level infs before unlocking forge. Not suitable for getting to the first infinity. Suitable for game version 0.8.4
 
 # Version 5.2 R15 Inf Push Preforge
 
