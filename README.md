@@ -23,7 +23,7 @@ Notes
 - Unfolding is 7% per second of base shield, so 24 hours is roughly x6050 shield, or a 6E3 multiplier on shield. Same math applies to growth.
 - Shield scales nicely and does not have negative synergy with temp barrier, unlike HP.
 - All attacks per second and range mods help clear speed
-- On hit effects like Serious Missile, Bash, and to a much lesser extent Extinguish are good.
+- On hit effects like Serious Missile, Bash are good.
 - XP Bonus module is nice QoL but unnecessary except in region 15, where you can die if era powers and shield aren't disabled fast enough.
 - Don’t disable Electric - reflection enables 100% uptime on strikeback and overcharge. Transformator applies irregardless of disable
 - For TBarrier + THull cycle, trigger TBarrier first, since electric reflect will kill you without era shield disabled
@@ -41,3 +41,14 @@ Notes
 - Earth Attack + Earth Armor + Avalanche is the best flat damage setup to add for more base damage to be converted to inf damage when ST3 is down (unverified)
 - Death Aura might be nice, not sure
 - Unholy Aura is dead since tastes are dead
+- Fire Armor is used to absorb the rare shield piercing damage from fire (unverified, division shield may be sufficient to survive)
+- Extinguish is in testing. Could be a small supplement to clear speed.
+
+# Testing BP
+
+`VjUuMiByMTUgaW5mIHByZWZvcmdlO3NhY3JpZmljZS5kYXJrO3NwZWxsLm11bHRpc2hvdDthdHRhY2suc3BlZWQ7YXR0YWNrLnJhcGlkZmlyZTtpbmZpbml0eS5hdHRhY2suc3BlZWQ7YXR0YWNrLmJvdW5jZTthdHRhY2subXVsdGlzaG90O2luZmluaXR5LnNwbGFzaDtjcml0LmluZmluaXR5O3NwbGFzaC5hZHZhbmNlZDthdHRhY2suYmFzaDtpbmZpbml0eS5pbXBldHVzO2F0dGFjay5pbXBldHVzO2F0dGFjay5zcGFyazthdHRhY2suYm91bmNlLnBob2VuaXg7YXR0YWNrLmJvdW5jZS5nYWlhO2VsZWN0cmljaXR5LnJlbGF5O2F0dGFjay5lYXJ0aDt3YXRlci5leHRpbmd1aXNoO2h1bGwudGl0YW5pdW07YmFycmllci50ZW1wb3JhbDtzcGVsbC5kaXNwZWw7ZGVmZW5zZS5zdHJpa2ViYWNrO2F1cmEuZGVhdGg7c2hpZWxkLmFkdmFuY2VkO3NoaWVsZC50cmFuc2Zvcm1hdG9yO2RlZmVuc2Uub3ZlcmNoYXJnZTtyZXNpc3RhbmNlLmFicy5lYXJ0aDtyZXNpc3RhbmNlLmFicy5maXJlO3NwZWxsLnJlZnJlc2g7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtib251cy5jb25kZW5zZTtlbmVyZ3kubW9vbjtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlY3ljbGluZzt4cC5ib251czt0b3dlci5zdXBlci4zO3Rvd2VyLnN1cGVyLjI7dG93ZXIuc3VwZXIuMTthaXIuaHVycmljYW5lO211bHRpc2hvdC5mb2N1c2VkO2luZmluaXR5LnJhbmdlO2RlZmVuc2UuYnVsd2FyazthbXBsaWZpZXIubmV1dHJhbDttaXNzaWxlLnNlcmlvdXM7c2hpZWxkLnVuaXZlcnNhbDtzaGllbGQudW5mb2xkaW5nO2VhcnRoLmF2YWxhbmNoZTtzaGllbGQuZGl2aXNpb247Zm91bmRhdGlvbi5pbmZpbml0eTtzaGllbGQuaW5maW5pdHk=`
+
+## Testing
+- Is Avalanche Damage setup useful?
+- Fire Armor removable if division shield + Extinguish?
+- Is Extinguish good?
