@@ -57,7 +57,7 @@ Region 15 Chaos
 
 9759100 Enemies killed
 
-9759100 / (14361 realtime seconds * 10 path * 2 easy_enemies) = 33.977
+9759100 / (14361 realtime seconds * 10 path * 2 easy_enemies) = 33.977 clearspeed
 
 # Testing BP
 
