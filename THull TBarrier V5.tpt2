@@ -1,24 +1,33 @@
-key.t()
+wakeup()
 
-tbarrier: gotoif(thull, cooldown(3) > 22.0)
+begin: waituntil(health(false) != 0.0)
+
+tbarrier: gotoif(darksac, cooldown(3) > 25.0)
 waituntil(energy(false) > 8700.0)
 useinstant(4)
 
-thull: gotoif(darksac, cooldown(4) > 34.0)
-waituntil(energy(false) > 45612.0)
+thull: gotoif(darksac, cooldown(3) > 1.0)
+waituntil(energy(false) > 188200.0)
 useinstant(3)
 
 darksac: gotoif(st3, health(true) < 0.51)
 useinstant(1)
+
 st3: useinstant(7)
+
 gotoif(hurricane, cooldown(6) > 136.0)
 gotoif(hurricane, cooldown(7) > 102.0)
 st2: useinstant(8)
 st1: useinstant(9)
+
 hurricane: useinstant(10)
+
 dispel: gotoif(supermultishot, negative() == 0)
 useinstant(5)
+
 supermultishot: useinstant(2)
+
 refresh: gotoif(end, cooldown(7) > 93.0)
 useinstant(6)
-end: goto(tbarrier)	
+
+end: goto(begin)
