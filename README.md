@@ -67,4 +67,4 @@ Region 15 Chaos
 - Is Avalanche Damage setup useful?
 - Fire Armor removable if division shield + Extinguish?
 - Is Extinguish good?
-- Is Bash bad for clearspeed? Infinity Impetus applies for when enemies get closer, not farther.
+- Is Bash/Sparks bad for clearspeed? Infinity Impetus applies for when enemies get closer, not farther. Test to see if removing these boosts clearspeed without getting tower killed when ST3 is down.
