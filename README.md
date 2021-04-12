@@ -34,7 +34,7 @@ Notes
 - Snap of Destiny is mostly useless (though theoretically could be timed for the 2 second ST gap?)
 - Super Multishot can’t trigger some multishot effects, but still provides some nice extra clearspeed.
 - Dark Sac Synergy with Emergency Crit + Strike Back + Bulwark is good
-- E Crit, Bulwark, Neutral Amplifier are reduced to x^0.05 effectiveness, still good enough to be used but not as great as it appears.
+- E Crit, Bulwark, Neutral Amplifier, Impetus are reduced to x^0.05 effectiveness, still good enough to be used but not as great as it appears.
 - Advanced Splash helps trigger Inf Splash
 - Bash/Sparks stun are good
 - Phoenix Bounce/Gaia’s Path/Relay extra bounces/hits scale well with on hit effects, and thus help clear speed
