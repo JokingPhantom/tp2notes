@@ -7,7 +7,7 @@ waituntil(energy(true) > 0.02)
 useinstant(4)
 
 thull: gotoif(darksac, cooldown(4) > 35.0)
-waituntil(energy(true) > 0.2)
+waituntil(energy(true) > 0.25)
 useinstant(3)
 
 darksac: gotoif(st3, health(true) < 0.51)
