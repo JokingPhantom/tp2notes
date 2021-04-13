@@ -1,6 +1,9 @@
 # tp2notes
 This build should be helpful for pushing to high level infs before unlocking forge. Not suitable for getting to the first infinity. Suitable for game version 0.8.4. Tested to 110k infs on region 15 chaos.
 
+Recommend having max bonus on shield from Trading Post, and no bonus on HP. The more HP you have, the worse temporal barrier gets. Also recommend maxed out rainbow power stone gems in Museum (prioritize filling all slots with the same highest tier you can afford, don't leave slots empty, don't get stones of the same type but different tiers). Minimum module required is probably 35-38, depending on your lab/museum/workshop/town perks bonii. Recommend pushing other regions first, or farming impossible era90b on beach for resources, so that you have high infs in other regions and the higher module levels.
+
+
 # Version 5.2 R15 Inf Push Preforge
 
 `VjUuMiByMTUgaW5mIHByZWZvcmdlO3NhY3JpZmljZS5kYXJrO3NwZWxsLm11bHRpc2hvdDthdHRhY2suc3BlZWQ7YXR0YWNrLnJhcGlkZmlyZTtpbmZpbml0eS5hdHRhY2suc3BlZWQ7YXR0YWNrLmJvdW5jZTthdHRhY2subXVsdGlzaG90O2luZmluaXR5LnNwbGFzaDtjcml0LmluZmluaXR5O3NwbGFzaC5hZHZhbmNlZDthdHRhY2suYmFzaDtpbmZpbml0eS5pbXBldHVzO2F0dGFjay5pbXBldHVzO2F0dGFjay5zcGFyazthdHRhY2suYm91bmNlLnBob2VuaXg7YXR0YWNrLmJvdW5jZS5nYWlhO2VsZWN0cmljaXR5LnJlbGF5O2F0dGFjay5lYXJ0aDtodWxsLnRpdGFuaXVtO2JhcnJpZXIudGVtcG9yYWw7c3BlbGwuZGlzcGVsO2RlZmVuc2Uuc3RyaWtlYmFjazthdXJhLmRlYXRoO3NoaWVsZC5hZHZhbmNlZDtzaGllbGQudHJhbnNmb3JtYXRvcjtkZWZlbnNlLm92ZXJjaGFyZ2U7cmVzaXN0YW5jZS5hYnMuZWFydGg7c2hpZWxkLmFtcGxpZmllcjtyZXNpc3RhbmNlLmFicy5maXJlO3NwZWxsLnJlZnJlc2g7ZW5lcmd5LnJlZ2VuZXJhdGlvbjtib251cy5jb25kZW5zZTtlbmVyZ3kubW9vbjtlbmVyZ3kuYmFzaWM7ZW5lcmd5LnJlY3ljbGluZzt4cC5ib251czt0b3dlci5zdXBlci4zO3Rvd2VyLnN1cGVyLjI7dG93ZXIuc3VwZXIuMTthaXIuaHVycmljYW5lO211bHRpc2hvdC5mb2N1c2VkO2luZmluaXR5LnJhbmdlO2RlZmVuc2UuYnVsd2FyazthbXBsaWZpZXIubmV1dHJhbDttaXNzaWxlLnNlcmlvdXM7c2hpZWxkLnVuaXZlcnNhbDtzaGllbGQudW5mb2xkaW5nO2VhcnRoLmF2YWxhbmNoZTtzaGllbGQuZGl2aXNpb247Zm91bmRhdGlvbi5pbmZpbml0eTtzaGllbGQuaW5maW5pdHk=`
@@ -11,7 +14,7 @@ This build should be helpful for pushing to high level infs before unlocking for
 
 # General Era Powers Disable Order
 
-Light, Water, Earth, Darkness
+Light, Darkness, Earth, Water
 
 Adjust AI mana cost or cooldown if you have lower tier modules or no Necronomicon, though I recommend at least 30+ module and getting Necro from boss 4.
 You may find it easier to adjust the source code via the online editor rather than ingame. See the .tpt2 file for source code to paste into https://kyromyr.github.io/perfect-tower/
@@ -43,11 +46,15 @@ Notes
 - Unholy Aura is dead since tastes are dead
 - Fire Armor is used to absorb the rare shield piercing damage from fire (unverified, division shield may be sufficient to survive)
 - Extinguish is in testing. Could be a small supplement to clear speed.
+- Light is the worst element in terms of clearspeed due to 1 sec invulnerability. Dark is similar due to its invis.
+- Earth can end runs via a badly timed stun.
+- Water is also bad for clearspeed, but it's only 4th in comparison to the previously listed 3 elements to disable.
 
 # Benchmark Stats
 
 #### Test run #1
 Region 15 Chaos
+Module Level 41
 
 270 minutes acceleration prep
 
