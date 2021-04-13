@@ -76,3 +76,4 @@ Module Level 41
 - Is Extinguish good?
 - Is Bash/Sparks unnecessary? Test to see if replacing these boosts clearspeed without getting tower killed when ST3 is down.
 - Is ST3 powerful enough on its own? Other builds cycle ST3 with ST1
+- Only running ST3 I think is the cause of unstables runs, requiring a few restarts before stability. Should try a more meta ST3 + 1/ ST2 cycle.
