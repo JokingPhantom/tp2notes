@@ -74,4 +74,4 @@ Module Level 41
 - Is Avalanche Damage setup useful?
 - Fire Armor removable if division shield + Extinguish?
 - Is Extinguish good?
-- Is Bash/Sparks bad for clearspeed? Infinity Impetus applies for when enemies get closer, not farther. Test to see if removing these boosts clearspeed without getting tower killed when ST3 is down.
+- Is Bash/Sparks unnecessary? Test to see if replacing these boosts clearspeed without getting tower killed when ST3 is down.
