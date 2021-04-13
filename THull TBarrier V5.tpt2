@@ -2,12 +2,12 @@ wakeup()
 
 begin: waituntil(health(false) != 0.0)
 
-tbarrier: gotoif(darksac, cooldown(3) > 25.0)
-waituntil(energy(false) > 8700.0)
+tbarrier: gotoif(thull, cooldown(3) > 29.5)
+waituntil(energy(true) > 0.02)
 useinstant(4)
 
-thull: gotoif(darksac, cooldown(3) > 1.0)
-waituntil(energy(false) > 188200.0)
+thull: gotoif(darksac, cooldown(4) > 35.0)
+waituntil(energy(true) > 0.2)
 useinstant(3)
 
 darksac: gotoif(st3, health(true) < 0.51)
