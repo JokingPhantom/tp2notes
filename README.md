@@ -14,7 +14,7 @@ Recommend having max bonus on shield from Trading Post, and no bonus on HP. The 
 
 # General Era Powers Disable Order
 
-Light, Darkness, Earth, Water
+Light, Era Shield/Damage, Darkness, Earth, Water
 
 Adjust AI mana cost or cooldown if you have lower tier modules or no Necronomicon, though I recommend at least 30+ module and getting Necro from boss 4.
 You may find it easier to adjust the source code via the online editor rather than ingame. See the .tpt2 file for source code to paste into https://kyromyr.github.io/perfect-tower/
@@ -75,3 +75,4 @@ Module Level 41
 - Fire Armor removable if division shield + Extinguish?
 - Is Extinguish good?
 - Is Bash/Sparks unnecessary? Test to see if replacing these boosts clearspeed without getting tower killed when ST3 is down.
+- Is ST3 powerful enough on its own? Other builds cycle ST3 with ST1
